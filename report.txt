@@ -1,0 +1,32 @@
+
+----- Question 1----- 
+ <br/>Function Name: incorrect: -10.00
+ <br/>operation('+',2,2) correct: +10
+ <br/>operation('-',10,2) correct: +10
+ <br/>operation('*',2,3) incorrect: -10-output: error-expected:6 
+ <br/>operation('/',2,2) incorrect: -10-output: error-expected:1 
+ <br/>operation(2,2,2) correct: +10
+ <br/>Constraints:Return: Correct 
+ <br/>COLON Usage: Incorrect -6.6666666666667
+ <br/>Constraints:If-Else: Correct 
+ <br/>
+(9-9-9-9)
+
+----- Question 2----- 
+ <br/>Function Name: correct 
+ <br/>string_times('Hi', 2) correct: +8.3333333333333
+ <br/>string_times('Hi', 3) correct: +8.3333333333333
+ <br/>string_times('Hi', 1) correct: +8.3333333333333
+ <br/>Constraints:Return: Correct 
+ <br/>Constraints:For: Incorrect -3.3333333333333
+ <br/>
+(9-9-9-9)
+
+----- Question 3----- 
+ <br/>Function Name: correct 
+ <br/>sleep_in(False, False) correct: +8.3333333333333
+ <br/>sleep_in(True, False) correct: +8.3333333333333
+ <br/>sleep_in(False, True) correct: +8.3333333333333
+ <br/>Constraints:Return: Correct 
+ <br/>Constraints:If-Else: Correct 
+ <br/>
